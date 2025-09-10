@@ -1,4 +1,3 @@
-
 # 🚗⚡Distributed Optimal Charging and Scheduling of Plug-in Electric Vehicles
 
 ## 📌 Project Overview
